@@ -14,7 +14,8 @@
 <hr>
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karanjot-bassi&show_icons=true&locale=en" alt="karanjot-bassi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjot-bassi&show_icons=true&locale=en&layout=compact&exclude_repo=repo1,repo2" alt="karanjot-bassi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karanjot-bassi&show_icons=true&locale=en&layout=compact" alt="karanjot-bassi" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanjot-bassi&label=Profile%20views&color=0e75b6&style=flat" alt="karanjot-bassi" /> </p>
