@@ -5,7 +5,7 @@
 </p> <hr>
 
 <h2 align="left">About Me ⚡️</h2>
-<p align="center">A 4th-year computer science student with over 5 years of programming experience across various technologies. Currently on the lookout for internship opportunities and eager to contribute my skills to a dynamic team.<p>
+<p align="center">Quantitative Analyst Inter at Suncor<p>
 <hr>
 
 
