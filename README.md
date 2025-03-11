@@ -5,7 +5,7 @@
 </p> <hr>
 
 <h2 align="left">About Me ⚡️</h2>
-<p align="center">Quantitative Analyst Inter at Suncor<p>
+<p align="center">Quantitative Analyst Intern at Suncor<p>
 <hr>
 
 
